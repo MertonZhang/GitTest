@@ -1,1 +1,2 @@
-﻿just test!
+just test!
+dev running!
